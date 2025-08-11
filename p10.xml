@@ -2,9 +2,9 @@
 <IPPhoneBook>
   <Title>Phonebook</Title>
   <Menu Name="Справочник ">
-    <Unit Name="FIRST_CONTACT" Phone1="105" Phone2="77074297973" Phone3="" default_photo="Resource:"/>
-    <Unit Name="SECOND_CONTACT" Phone1="104" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="NEW1" Phone1="104" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FIRST_CONTACT" Phone1="101" Phone2="77074297973" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SECOND_CONTACT" Phone1="102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NEW1" Phone1="103" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="NEW2" Phone1="104" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </IPPhoneBook>

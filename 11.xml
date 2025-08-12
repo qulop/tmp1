@@ -2,16 +2,8 @@
 <IPPhoneBook>
   <Title>Phonebook</Title>
   <Menu Name="Справочник ">
-    <Unit Name="John Smith" Phone1="4821" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Emily Johnson" Phone1="1938" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Michael Brown" Phone1="5723" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Jessica Lee" Phone1="6042" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="DSS A" Phone1="6041" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="SD B" Phone1="6043" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Jessica C" Phone1="6044" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Jessica D" Phone1="6045" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Jessica H" Phone1="6046" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Jessica G" Phone1="6047" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Jessica C" Phone1="6048" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Sam" Phone1="4821" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Benny" Phone1="1938" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Aranold" Phone1="5723" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </IPPhoneBook>

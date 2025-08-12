@@ -2,8 +2,8 @@
 <IPPhoneBook>
   <Title>Phonebook</Title>
   <Menu Name="Справочник ">
-    <Unit Name="Sam" Phone1="4821" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Benny" Phone1="1938" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Aranold" Phone1="5723" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Tom" Phone1="4821" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Cat" Phone1="1938" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Joye" Phone1="5723" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </IPPhoneBook>
